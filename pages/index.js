@@ -7,7 +7,7 @@ import Header from "../components/Header";
 import Gallery from "../components/Gallery";
 
 // page styles
-import styles from "../styles/Home.module.scss";
+import styles from "../styles/Home.module.css";
 
 const siteDecript = ""; //metadata description
 

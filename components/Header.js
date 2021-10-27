@@ -2,7 +2,7 @@ import { FaChevronDown } from "react-icons/fa";
 import Link from "next/link";
 
 // import styles
-import styles from "../styles/Header.module.scss";
+import styles from "../styles/Header.module.css";
 
 const pages = [
   { name: "Home", link: "/" },

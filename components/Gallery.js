@@ -1,7 +1,7 @@
 import { Component } from "react";
 
 // style imports
-import styles from "../styles/Gallery.module.scss";
+import styles from "../styles/Gallery.module.css";
 
 class Gallery extends Component {
   constructor(props) {
